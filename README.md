@@ -1,0 +1,2 @@
+# balagefirstapp
+Infozgatás
